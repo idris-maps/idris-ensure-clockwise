@@ -12,5 +12,9 @@
     "clockwise"
   ],
   "author": "idris-maps.com",
-  "license": "GPL"
+  "license": "GPL",
+	"repository" : { 
+		"type" : "git", 
+		"url" : "https://github.com/idris-maps/idris-ensure-clockwise"
+	}
 }
