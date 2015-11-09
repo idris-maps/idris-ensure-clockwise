@@ -1,0 +1,16 @@
+{
+  "name": "idris-ensure-clockwise",
+  "version": "0.0.0",
+  "description": "Ensure GeoJSON polygon points are clockwise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GeoJSON",
+    "polygon",
+    "clockwise"
+  ],
+  "author": "idris-maps.com",
+  "license": "GPL"
+}
